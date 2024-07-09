@@ -1,10 +1,4 @@
-Certainly! Here's a Markdown template for a README file tailored for a MERN (MongoDB, Express.js, React, Node.js) backend project:
-
-```markdown
-# Project Name
-
-Short description or overview of your project.
-
+#  MERN BACKEND
 ## Table of Contents
 
 - [Project Overview](#project-overview)
