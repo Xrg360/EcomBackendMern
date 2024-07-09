@@ -81,9 +81,7 @@ Step-by-step instructions on how to get a development environment set up.
 Instructions on how to run the backend application.
 
 ```bash
-npm start
-# or
-yarn start
+node server.js
 ```
 
 By default, the server will run on `http://localhost:5000`.
