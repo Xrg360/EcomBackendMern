@@ -92,18 +92,4 @@ By default, the server will run on `http://localhost:5000`.
 
 Provide examples or instructions on how to use your backend APIs.
 
-## Contributing
 
-Guidelines if you want other developers to contribute to your project.
-
-## License
-
-Specify the licensing information for your project (e.g., MIT License).
-```
-
-### Notes:
-- **Customization:** Replace placeholders like `yourusername`, `your-project`, `your-database-name`, and `your_secret_key` with your actual project details.
-- **Additional Sections:** Depending on your project's complexity, you may want to add more sections, such as API documentation, testing instructions, or deployment steps.
-- **Formatting:** Ensure proper Markdown syntax for headings, lists, code blocks, and other elements to maintain readability and clarity.
-
-This template serves as a solid foundation for documenting your MERN backend project, making it easier for others to understand, use, and contribute to your codebase.
