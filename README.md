@@ -70,11 +70,11 @@ Step-by-step instructions on how to get a development environment set up.
 
    ```plaintext
    PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/your-database-name
-   SECRET_KEY=your_secret_key
+   MONGO_URI=mongodb://localhost:27017/your-database-name
+   JWT_SECRET=your_secret_key
    ```
 
-   Modify `MONGODB_URI` and `SECRET_KEY` as per your configuration needs.
+   Modify `MONGO_URI` and `JWT_SECRET` as per your configuration needs.
 
 ### Running the Application
 
